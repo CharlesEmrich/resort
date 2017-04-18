@@ -11,6 +11,12 @@ p,li, td {
   font-size: 20px;
 }
 
+td {
+  font-size: 32px;
+  text-align: center;
+  padding-left: 3px
+}
+
 a {
   background-color: oldlace;
 }
