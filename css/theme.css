@@ -26,3 +26,7 @@ a:hover {
 a:active {
   color: white;
 }
+
+h6 {
+  font-size: 24px;
+}

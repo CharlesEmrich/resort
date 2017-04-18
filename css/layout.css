@@ -12,7 +12,7 @@ h3 {
   text-align: center;
 }
 
-#navigation {
+.navigation {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -26,4 +26,19 @@ li {
 a {
   display: block;
   padding: 8px
+}
+
+table {
+  margin: auto;
+}
+
+h6 {
+  margin: auto;
+  text-align: center;
+}
+
+.activities {
+  width: 600px;
+  display: block;
+  margin: auto;
 }
