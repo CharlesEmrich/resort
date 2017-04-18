@@ -1,0 +1,25 @@
+* {
+  text-decoration: none;
+  text-decoration-color: black;
+
+}
+body {
+  background-color: aquamarine;
+}
+
+p,li {
+  color: black;
+
+}
+
+a:link,a:visited {
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+a:active {
+  color: white;
+}
