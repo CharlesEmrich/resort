@@ -6,9 +6,9 @@ body {
   background-color: aquamarine;
 }
 
-p,li {
-  color: black;
-
+p,li, td {
+  color: midnightblue;
+  font-size: 20px;
 }
 
 a {
@@ -29,4 +29,11 @@ a:active {
 
 h6 {
   font-size: 24px;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 50px;
+  background-color: oldlace;
+  color: dodgerblue;
 }
