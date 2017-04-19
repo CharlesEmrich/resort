@@ -24,7 +24,7 @@ h3 {
 }
 
 li {
-  display: inline;
+  /*display: inline;*/
   float: left;
 }
 
@@ -72,5 +72,13 @@ h6 {
 
 /*https://martinwolf.org/blog/2013/04/centered-fluid-width-navigation-with-floating-links-thanks-to-fit-content*/
 .container {
-  width: 780px;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.return {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
 }
